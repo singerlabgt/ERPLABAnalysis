@@ -1,3 +1,4 @@
+%% Change a .set EEG file into a .erp file.  Add event list and extract bin-based epochs.
 % %Open EEGLAB 
 % [ALLEEG, EEG, CURRENTSET, ALLCOM] = eeglab;
 
